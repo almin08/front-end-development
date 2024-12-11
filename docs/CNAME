@@ -1,1 +1,4 @@
 www.mojsajt.com
+git add CNAME
+git commit -m "Dodavanje CNAME fajla za prilagođeni domen"
+git push
